@@ -2,7 +2,6 @@
 ## Project Overview
 ## An interactive Excel dashboard developed to analyze sales revenue, profitability, and budget performance using practice data.
 ## Key Features
-![Sales Performance Dashboard](Sales_Dashboard_Preview.PNG)
 - Revenue and profit KPI summaries
 - Monthly profit trend analysis
 - Profit comparison across product categories
